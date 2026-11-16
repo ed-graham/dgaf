@@ -1,0 +1,38 @@
+
+<footer class="site-footer">
+  <div class="container">
+
+    <div class="footer-main">
+      <div>
+        <a class="footer-brand" href="{{ '/' | relative_url }}">
+          DGAF <span>actually</span>
+        </a>
+        <p>
+          Independent thinking.<br>
+          Exceptional expertise.
+        </p>
+      </div>
+
+      <div class="footer-links">
+        <h4>Explore</h4>
+        <a href="{{ '/about/' | relative_url }}">About us</a>
+        <a href="{{ '/services/' | relative_url }}">Our services</a>
+        <a href="{{ '/insights/' | relative_url }}">Insights</a>
+        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      </div>
+
+      <div class="footer-links">
+        <h4>Connect</h4>
+        <a href="mailto:hello@example.com">Email us ↗</a>
+        <a href="#">LinkedIn ↗</a>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <span>© {{ site.time | date: "%Y" }} DGAF Actually</span>
+      <span>All rights reserved.</span>
+      <a href="#">Privacy policy</a>
+    </div>
+
+  </div>
+</footer>

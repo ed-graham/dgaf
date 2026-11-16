@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<section class="page-hero">
+  <div class="container">
+    <div class="eyebrow">
+      {{ page.date | date: "%d %B %Y" }}
+    </div>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}
+      <p>{{ page.description }}</p>
+    {% endif %}
+  </div>
+</section>
+
+<article class="section">
+  <div class="container content-narrow article-content">
+    {{ content }}
+    <a href="{{ '/insights/' | relative_url }}" class="text-link">
+      ← Back to insights
+    </a>
+  </div>
+</article>

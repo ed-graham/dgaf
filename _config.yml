@@ -1,0 +1,32 @@
+
+title: "DGAF actually"
+tagline: "Independent thinking. Exceptional expertise."
+description: "An independent professional services consultancy providing strategic expertise and trusted advice."
+url: ""
+baseurl: ""
+
+markdown: kramdown
+permalink: /insights/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+collections:
+  services:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

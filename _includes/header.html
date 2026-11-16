@@ -1,0 +1,28 @@
+<header class="site-header">
+  <div class="container nav-container">
+
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand-name">DGAF <span>actually</span></span>
+      <span class="brand-subtitle">PROFESSIONAL ADVISORY</span>
+    </a>
+
+    <button class="menu-toggle"
+            aria-label="Toggle navigation"
+            aria-expanded="false"
+            aria-controls="main-navigation">
+      <span></span>
+      <span></span>
+    </button>
+
+    <nav id="main-navigation" class="main-nav">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/services/' | relative_url }}">Services</a>
+      <a href="{{ '/insights/' | relative_url }}">Insights</a>
+      <a class="nav-contact" href="{{ '/contact/' | relative_url }}">
+        Get in touch <span>↗</span>
+      </a>
+    </nav>
+
+  </div>
+</header>
