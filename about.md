@@ -7,34 +7,30 @@ permalink: /about/
 <section class="page-hero">
   <div class="container">
     <div class="eyebrow">ABOUT DGAF Actually</div>
-    <h1>Built on expertise.<br><em>Defined by integrity.</em></h1>
-    <p>We believe exceptional advice starts with listening,
-    understanding and a genuine commitment to excellence.</p>
+    <h1>Built on pragmatism.<br><em>Defined by self-preservation.</em></h1>
+    <p>We believe that minimal advice starts with a shared commitment not to over-extend ourselves.</p>
   </div>
 </section>
 
 <section class="section">
   <div class="container content-narrow">
     <div class="eyebrow">OUR STORY</div>
-    <h2>Independent thinking.<br><em>Purposeful action.</em></h2>
+    <h2>Stripped-back thinking.<br><em>No unnecessary action.</em></h2>
 
     <p>
       DGAF Actually is a professional services consultancy
-      established around a simple principle: clients deserve
-      thoughtful advice, exceptional service and relationships
-      built on trust.
+      established around a simple principle: do not spend any more time on a problem than you absolutely have to.  Life is short.
     </p>
 
     <p>
-      Our approach combines professional expertise with a
-      practical understanding of the challenges facing
-      modern organisations.
+      Our approach combines honestly with a
+      refreshing level of self-interest when it comes to comparing your personal needs with that of your organisation.
     </p>
 
     <p>
-      We take the time to understand every engagement,
-      developing considered recommendations and delivering
-      work with care, discretion and professionalism.
+      We take the least amount time to understand every engagement,
+      reusing previous recommendations wherever possible and delivering
+      work that will only just pass muster.
     </p>
   </div>
 </section>
@@ -48,22 +44,19 @@ permalink: /about/
       <article class="service-card">
         <span class="service-number">01</span>
         <h3>Integrity</h3>
-        <p>Honesty, transparency and professional responsibility
-        underpin everything we do.</p>
+        <p>We let you know up-front precisely how little work we hope to do in order that you still feel like paying us.</p>
       </article>
 
       <article class="service-card">
         <span class="service-number">02</span>
-        <h3>Excellence</h3>
-        <p>We hold ourselves to consistently high standards
-        of thought, execution and service.</p>
+        <h3>Price over quality</h3>
+        <p>Nobody remembers an outstanding report a year later; but blowing a fortune on consultants could get you fired.</p>
       </article>
 
       <article class="service-card">
         <span class="service-number">03</span>
-        <h3>Partnership</h3>
-        <p>We value lasting relationships built on mutual respect
-        and shared objectives.</p>
+        <h3>Symbiotic partnership</h3>
+        <p>Like Oxpeckers and large African mammals, we need each other whether we like it or not.</p>
       </article>
     </div>
   </div>

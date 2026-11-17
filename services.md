@@ -6,10 +6,9 @@ permalink: /services/
 
 <section class="page-hero">
   <div class="container">
-    <div class="eyebrow">OUR EXPERTISE</div>
-    <h1>Thoughtful expertise.<br><em>Practical outcomes.</em></h1>
-    <p>Professional services shaped around your organisation,
-    your objectives and your ambitions.</p>
+    <div class="eyebrow">MAKE IT GO AWAY</div>
+    <h1>Getting sh!t done.<br><em>Moving on.</em></h1>
+    <p>Stop-gap solutions to perennial problems.</p>
   </div>
 </section>
 
@@ -17,43 +16,55 @@ permalink: /services/
   <div class="container">
 
     <article class="detail-service">
-      <span class="service-number">01 / ADVISORY</span>
-      <h2>Strategic Advisory</h2>
+      <span class="service-number">01 / LOW BARRIER TO ENTRY</span>
+      <h2>Easy start</h2>
       <p>
-        We provide independent thinking and considered
-        perspectives to support informed decision-making.
-        Our work helps organisations evaluate opportunities,
-        navigate complexity and establish clear priorities.
+        No workshops. No discovery phase. No stakeholder interviews.
+      </p>
+      <p>
+        You tell us roughly what the problem is. We nod and get moving.
       </p>
     </article>
 
     <article class="detail-service">
-      <span class="service-number">02 / CONSULTING</span>
-      <h2>Professional Consulting</h2>
+      <span class="service-number">02 / PRAGMATIC APPROACH</span>
+      <h2>Get sh!t done</h2>
       <p>
-        We bring specialist professional knowledge to
-        challenging situations, helping clients assess
-        options and develop practical approaches.
+        We produce something tangible enough to forward to your boss.
+      </p>
+      <p>
+        A document. A deck. A plan. A framework. Maybe even a diagram.
       </p>
     </article>
 
     <article class="detail-service">
-      <span class="service-number">03 / SOLUTIONS</span>
-      <h2>Business Solutions</h2>
+      <span class="service-number">03 / PREDICTABLE OUTCOME</span>
+      <h2>Sort your problem out</h2>
       <p>
-        We work collaboratively to identify opportunities,
-        improve processes and develop solutions that
-        support sustainable organisational progress.
+        Will it solve the underlying problem?
+      </p>
+      <p>
+        Let’s not get distracted.
+      </p>
+      <p>
+        It will solve the immediate problem of someone asking what you’ve done about it.
       </p>
     </article>
 
     <article class="detail-service">
-      <span class="service-number">04 / SUPPORT</span>
-      <h2>Professional Support</h2>
+      <span class="service-number">04 / TAKING CREDIT</span>
+      <h2>Make you look like a hero</h2>
       <p>
-        We offer ongoing professional guidance and
-        engagement tailored to the evolving needs
-        of our clients.
+        You receive something competent, conventional and complete.
+      </p>
+      <p>
+        You send it around.
+      </p>
+      <p>
+        People say, “Looks good.”
+      </p>
+      <p>
+        Everyone moves on.
       </p>
     </article>
 
