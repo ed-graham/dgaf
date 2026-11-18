@@ -16,30 +16,26 @@ permalink: /services/
   <div class="container">
 
     <article class="detail-service">
-      <span class="service-number">01 / LOW BARRIER TO ENTRY</span>
-      <h2>Easy start</h2>
+      <span class="alternative-spacing-service-number">01 / LOW BARRIER TO ENTRY</span>
+      <h3>Easy start</h3>
       <p>
         No workshops. No discovery phase. No stakeholder interviews.
       </p>
       <p>
         You tell us roughly what the problem is. We nod and get moving.
       </p>
-    </article>
 
-    <article class="detail-service">
-      <span class="service-number">02 / PRAGMATIC APPROACH</span>
-      <h2>Get sh!t done</h2>
+      <span class="alternative-spacing-service-number">02 / PRAGMATIC APPROACH</span>
+      <h3>Get sh!t done</h3>
       <p>
         We produce something tangible enough to forward to your boss.
       </p>
       <p>
         A document. A deck. A plan. A framework. Maybe even a diagram.
       </p>
-    </article>
 
-    <article class="detail-service">
-      <span class="service-number">03 / PREDICTABLE OUTCOME</span>
-      <h2>Sort your problem out</h2>
+      <span class="alternative-spacing-service-number">03 / PREDICTABLE OUTCOME</span>
+      <h3>Sort your problem out</h3>
       <p>
         Will it solve the underlying problem?
       </p>
@@ -49,11 +45,9 @@ permalink: /services/
       <p>
         It will solve the immediate problem of someone asking what you’ve done about it.
       </p>
-    </article>
 
-    <article class="detail-service">
-      <span class="service-number">04 / TAKING CREDIT</span>
-      <h2>Make you look like a hero</h2>
+      <span class="alternative-spacing-service-number">04 / TAKING CREDIT</span>
+      <h3>Make you look like a hero</h3>
       <p>
         You receive something competent, conventional and complete.
       </p>
@@ -61,7 +55,7 @@ permalink: /services/
         You send it around.
       </p>
       <p>
-        People say, “Looks good.”
+        People say, “Looks good”.
       </p>
       <p>
         Everyone moves on.

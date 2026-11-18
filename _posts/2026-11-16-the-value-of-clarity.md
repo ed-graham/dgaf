@@ -1,33 +1,23 @@
 ---
 layout: post
-title: "The Value of Clarity in Business"
-description: "Why clear thinking and informed decisions matter."
+title: "The Minimum Viable Füück™"
+description: "Try not to care that much."
 date: 2026-11-16
 categories: [Strategy, Professional Practice]
 ---
 
-In an increasingly complex business environment,
-clarity is an important professional advantage.
+Other consultancies care deeply.
 
-Organisations face a constant flow of information,
-competing priorities and changing circumstances.
+They explore.
 
-The ability to distinguish what matters from what
-simply demands attention is fundamental to effective
-decision-making.
+They facilitate.
 
-## The importance of perspective
+They immerse themselves in your organisation.
 
-Good decisions rarely emerge from information alone.
+We maintain a healthier emotional distance.
 
-They require perspective, sound judgement and
-an understanding of the broader context.
+The Minimum Viable Füück™ is the smallest amount of care required to produce something that passes casual inspection.
 
-## A considered approach
+No more.
 
-Taking time to understand the challenge, evaluate
-the available options and establish clear priorities
-can create a more confident path forward.
-
-At DGAF Actually, we believe that thoughtful
-professional advice begins with asking the right questions.
+Occasionally less.

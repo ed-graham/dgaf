@@ -8,30 +8,82 @@ permalink: /about/
   <div class="container">
     <div class="eyebrow">ABOUT DGAF Actually</div>
     <h1>Built on pragmatism.<br><em>Defined by self-preservation.</em></h1>
-    <p>We believe that minimal advice starts with a shared commitment not to over-extend ourselves.</p>
+    <p>We believe that mutual satisfaction begins with a shared commitment not to over-extend ourselves.</p>
   </div>
 </section>
 
 <section class="section">
-  <div class="container content-narrow">
-    <div class="eyebrow">OUR STORY</div>
+  <div class="container content-fairly-narrow">
+    <div class="eyebrow">OUR ETHOS</div>
     <h2>Stripped-back thinking.<br><em>No unnecessary action.</em></h2>
 
-    <p>
-      DGAF Actually is a professional services consultancy
-      established around a simple principle: do not spend any more time on a problem than you absolutely have to.  Life is short.
-    </p>
+    <article class="detail-about">
+      <h3>Do you just want to get sh!t done?</h3>
+      <p>
+        Without transforming the culture?
+      </p>
+      <p>
+        Without taking people on a journey?
+      </p>
+      <p>
+        Without making any real effort whatsoever?
+      </p>
+      <p>
+        Good.
+      </p>
+      <p>
+        Call us.
+      </p>
+      <p>
+        We do a basic job that gets your boss off your back.
+      </p>
 
-    <p>
-      Our approach combines honestly with a
-      refreshing level of self-interest when it comes to comparing your personal needs with that of your organisation.
-    </p>
+      <h3>Your problem probably isn’t that important</h3>
+      <p>
+        Someone has asked you to “take a look at something”.
+      </p>
+      <p>
+        Now it’s somehow become your problem.
+      </p>
+      <p>
+        You could listen to people. Understand the reality. Think creatively. Design a thoughtful solution. Test it. Learn from it. Improve it.
+      </p>
+      <p>
+        But that sounds exhausting.
+      </p>
+      <p>
+        And let’s be honest: nobody is going to check.
+      </p>
+      <p>
+        DGAF Actually gives you a perfectly ordinary answer that looks reassuringly like all the other answers.
+      </p>
+      <p>
+        Job done.
+      </p>
 
-    <p>
-      We take the least amount time to understand every engagement,
-      reusing previous recommendations wherever possible and delivering
-      work that will only just pass muster.
-    </p>
+      <h3>Don’t stick your neck out</h3>
+      <p>
+        New ideas are risky.
+      </p>
+      <p>
+        They create questions.
+      </p>
+      <p>
+        Questions create meetings.
+      </p>
+      <p>
+        Meetings create actions.
+      </p>
+      <p>
+        Actions create more work.
+      </p>
+      <p>
+        We help you avoid this vicious cycle by recommending whatever everyone else has already been doing for years.
+      </p>
+      <p>
+        If it was good enough for them, it is almost certainly adequate for you.
+      </p>
+    </article>
   </div>
 </section>
 
@@ -49,14 +101,14 @@ permalink: /about/
 
       <article class="service-card">
         <span class="service-number">02</span>
-        <h3>Price over quality</h3>
+        <h3>Value</h3>
         <p>Nobody remembers an outstanding report a year later; but blowing a fortune on consultants could get you fired.</p>
       </article>
 
       <article class="service-card">
         <span class="service-number">03</span>
-        <h3>Symbiotic partnership</h3>
-        <p>Like Oxpeckers and large African mammals, we need each other whether we like it or not.</p>
+        <h3>Partnership</h3>
+        <p>Like oxpeckers and large African mammals, we need each other whether we like it or not.</p>
       </article>
     </div>
   </div>

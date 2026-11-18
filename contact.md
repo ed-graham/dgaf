@@ -7,9 +7,8 @@ permalink: /contact/
 <section class="page-hero">
   <div class="container">
     <div class="eyebrow">CONTACT</div>
-    <h1>Good conversations<br><em>start here.</em></h1>
-    <p>We welcome enquiries from organisations
-    seeking experienced professional support.</p>
+    <h1>Good conversations<br /><em>don't belong at work.</em></h1>
+    <p>Just drop us a brief line - less is often more.</p>
   </div>
 </section>
 
@@ -18,22 +17,22 @@ permalink: /contact/
 
     <div>
       <div class="eyebrow">GET IN TOUCH</div>
-      <h2>We would be pleased<br>to <em>hear from you.</em></h2>
+      <h2>We would be mildly pleased to <em>hear from you.</em></h2>
 
       <p>
         Whether you have a specific requirement or simply
         want to explore a potential opportunity, please
-        get in touch.
+        be succinct.  We have other clients too, you know.
       </p>
 
       <div class="contact-detail">
         <span>EMAIL</span>
-        <a href="mailto:hello@example.com">hello@example.com</a>
+        <a href="mailto:hello@dgafactually.com">hello@dgafactually.com</a>
       </div>
 
       <div class="contact-detail">
         <span>PROFESSIONAL ENQUIRIES</span>
-        <p>We aim to respond to enquiries promptly.</p>
+        <p>We aim to respond to all enquiries where we think it will be quick and easy for us to do your job.</p>
       </div>
     </div>
 
@@ -41,10 +40,10 @@ permalink: /contact/
       <h3>Begin a conversation.</h3>
       <p>
         Send us an email outlining your requirements
-        and we will be happy to discuss the next steps.
+        and we may get back to you to discuss next steps.
       </p>
       <a class="button button-gold"
-         href="mailto:hello@example.com?subject=Professional%20Services%20Enquiry">
+         href="mailto:hello@dgafactually.com?subject=Professional%20Services%20Enquiry">
         Send an enquiry ↗
       </a>
     </div>
